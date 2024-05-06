@@ -14,7 +14,7 @@ namespace FBTest
 
             if (num % 3 == 0)
             {
-                result += "Fizz";
+                result += "Mizz";
             }
             
             if (num % 5 == 0)
